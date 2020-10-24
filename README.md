@@ -1,0 +1,2 @@
+# InformaticsPractice
+インフォマティクス.アルゴリズム
